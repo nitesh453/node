@@ -1,0 +1,17 @@
+{
+  "name": "node-js-crash-course",
+  "version": "1.0.0",
+  "description": "this is npm file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nitesh paswan",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
